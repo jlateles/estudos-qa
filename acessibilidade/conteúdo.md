@@ -112,3 +112,4 @@ Ele lê: "link: ver mais", "link: ver mais", "link: ver mais" → sem contexto.
 
 ### Exemplo na interface do projeto base 
 
+<img src="https://github.com/jlateles/estudos-qa/blob/main/arquivos-imagens/interface-vis%C3%A3o-geral.png">
