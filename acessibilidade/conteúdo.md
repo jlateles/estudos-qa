@@ -112,4 +112,9 @@ Ele lê: "link: ver mais", "link: ver mais", "link: ver mais" → sem contexto.
 
 ### Exemplo na interface do projeto base 
 
-<img src="https://github.com/jlateles/estudos-qa/blob/main/arquivos-imagens/interface-vis%C3%A3o-geral.png">
+<img src="https://github.com/jlateles/estudos-qa/blob/main/arquivos-imagens/link-ver-mais.png">
+
+Na seção "Próximas tarefas", em cada card têm um link de "Ver mais", porém dessa forma não é acessível, pois não transmite informação completa e descrição do que o usuário verá se clicar neste link. 
+
+Correção: 
+  - Mudar o texto do link para "Ver mais detalhes da tarefa" ou ainda mais específico ""Ver detalhes da tarefa de Matemática"
